@@ -10,20 +10,10 @@ It's common to have a small `main` function that imports and invokes the code fr
 
 Examples:
 
-<<<<<<< HEAD
-* https://github.com/heptio/ark/tree/master/cmd (just a really small `main` function with everything else in packages)
-* https://github.com/moby/moby/tree/master/cmd
-* https://github.com/prometheus/prometheus/tree/master/cmd
-* https://github.com/influxdata/influxdb/tree/master/cmd
-* https://github.com/kubernetes/kubernetes/tree/master/cmd
-* https://github.com/satellity/satellity/tree/master/cmd/satellity
-* https://github.com/dapr/dapr/tree/master/cmd
-* https://github.com/ethereum/go-ethereum/tree/master/cmd
-=======
-- https://github.com/heptio/ark/tree/master/cmd (just a really small `main` function with everything else in packages)
+- https://github.com/heptio/ark/tree/master/cmd (just a really small main function with everything else in packages)
 - https://github.com/moby/moby/tree/master/cmd
 - https://github.com/prometheus/prometheus/tree/master/cmd
 - https://github.com/influxdata/influxdb/tree/master/cmd
 - https://github.com/kubernetes/kubernetes/tree/master/cmd
 - https://github.com/dapr/dapr/tree/master/cmd
->>>>>>> fix : Delete repo that exist no more cmd folder
+- https://github.com/ethereum/go-ethereum/tree/master/cmd
